@@ -2,6 +2,10 @@
 
 This repository contains the LaTeX source code for generating the resume of Dev Sanghani, a cybersecurity professional. The LaTeX document is designed to be highly customizable and easy to maintain, suitable for professionals seeking a clean and effective way to present their credentials.
 
+## Resume Preview
+
+![Resume Preview](resume_preview.png)
+
 ## Repository Structure
 
 - `Dev_Sanghani_Resume.pdf` - The final output of the compiled LaTeX document, showcasing Dev Sanghani's professional resume.
