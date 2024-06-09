@@ -4,7 +4,7 @@ This repository contains the LaTeX source code for generating the resume of Dev 
 
 ## Resume Preview
 
-![Resume Preview](resume_preview.png)
+![Resume Preview](Dev_Sanghani_Resume.png)
 
 ## Repository Structure
 
